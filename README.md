@@ -30,17 +30,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Re-descubriendo la hibridacion:Caso 2 SPOTIFY
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En el caso de Spotify hemos visto cómo ha cambiado las reglas del juego en el mundo de la música en los últimos 20 años.
+Daniel Ek y Martin Lorentzon fundaron Spotify en Suecia en 2006
   
-En el caso de Spotify hemos visto cómo ha cambiado las reglas del juego en el mundo de la músico en los últimos 20 años.
+Antes lo normal era comprar algo físico si querías escuchar música, un cd un vinilo o un casete, con la llegada de la plataforma de streaming se transformó la forma en la que consumimos música, ahora puedes adquirir canciones individuales, puedes adquirir un CD completo, puedes crear una lista de canciones favoritas, incluso te deja exportar tus Playlist a otros servicios de streaming de música y todo es a golpe de un clic, también tiene versión de pago sin anuncios y otra con anuncios, ésta es gratuita. Todo esto hace unos años era impensable:
+¿Un servicio de suscripción en el que puedo escuchar todo lo que quiera por muy poco dinero al mes? Spotify no sólo ha sido una transformación a digital y streaming, eso sólo sería una suscripción y escuchar música, sino que también hay varias fusiones añadidos nuevos y un caso claro de hibridación, Puedes darle me gusta a canciones, puedes ver la popularidad de éstas en el propio servicio, también es una auténtica red social en la que compartir playlists.
   
-  Antes lo normal era comprar algo físico si querías escuchar música, un cd un vinilo o un cassete, con la llegada de la plataforma de streaming se transformó la forma en la que consumimos música, ahora puedes adquirir canciones individuales, puedes adquirir un CD completo,  puedes crear una lista de canciones favoritas, incluso te deja exportar tus Playlist a otros servicios de streaming de música y todo es a golpe de un clic,  también tiene versión de pago sin anuncios y otra con anuncios, ésta es gratuita.
-  Todo esto hace unos años era impensable;
+Curioso los caso el de los podcast, han avanzado mucho en los últimos años, cualquiera puede grabar un audio de algo interesante que quieras transmitir y la tendrás en la plataforma de streaming, sí, como Youtube, o ¡una radio!
   
-  ¿un servicio de suscripción  en el que puedo escuchar todo lo que quiera por muy poco dinero al mes?
-  Spotify no sólo ha sido una transformación a digital y streaming, eso sólo sería una suscripción y escuchar música, sino que también hay varias fusiones añadidos nuevos y un caso claro de hibridación, Puedes darle me gusta a canciones, puedes ver la popularidad de éstas en el propio servicio, también es una auténtica red social en la que compartir playlists.
+Al entrar en Spotify y su servicio de suscripción también podrás tenerlo en otros aparatos como móviles, tablets, tu propio coche y también puedes acceder desde el navegador web, ha hibridado en todos los dispositivos posibles, todo esto sin necesidad de tener un dispositivo con memoria donde almacenar estas canciones, otra vez más se mezcla con el servicio en la nube, transformándose.
   
-  Curioso los caso el de los podcast, han avanzado mucho en los últimos años, cualquiera puede grabar un audio de algo interesante que quieras transmitir y la tendrás en la plataforma de streaming, sí, como Youtube, o ¡una radio!
+Su interfaz y la manera en la que te relacionas con el servicio también es otra forma de ver cómo ha cambiado la manera de escuchar y consumir música parece que estemos en una biblioteca virtual, tan solo con clicar en la lupa puedes encontrar la canción que buscas.
+
   
 
 ### Referencias y Bibliografía
