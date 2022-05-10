@@ -80,8 +80,6 @@ En Spotify también hay otro añadido muy importante, otro caso  de hibridación
 * Spotify.com
   
 * Wikipedia.com
-  
-* www.unocero.com/como-se-hace/5-trucos-de-spotify-que-debes-conocer
 
 * www.xataka.com/streaming/no-somos-como-netflix-spotify-desacelera-suscripciones-esquiva-comparaciones
 
