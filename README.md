@@ -44,7 +44,7 @@ Es un claro caso la mezcla e hibridación donde ya apenas se diferencia ni se ve
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=v=34GJ9ZMAKqA
 " target="_blank">
   
-  (https://www.youtube.com/watch?v=34GJ9ZMAKqA)
+ 
 
 ![SPOTIFY](https://www.scdn.co/i/_global/open-graph-default.png) 
 
@@ -91,7 +91,7 @@ En Spotify también hay otro añadido muy importante, otro caso  de hibridación
   
 * https://maxigame.net/2015/11/13/uncharted-4-el-final-de-un-ladron-parece-muy-cercano-a-una-pelicula-dice-un-empleado-travieso-de-perro/
 
-  
+*  https://www.youtube.com/watch?v=34GJ9ZMAKqA 
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
