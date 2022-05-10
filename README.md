@@ -81,15 +81,15 @@ En Spotify también hay otro añadido muy importante, otro caso  de hibridación
   
 * Wikipedia.com
 
-* www.unocero.com/como-se-hace/5-trucos-de-spotify-que-debes-conocer/
+* www.unocero.com/como-se-hace/5-trucos-de-spotify-que-debes-conocer
 
 * www.xataka.com/streaming/no-somos-como-netflix-spotify-desacelera-suscripciones-esquiva-comparaciones
 
-* https://livingplaystation.com/2015/02/09/uncharted-4-tiene-una-calidad-grafica-que-se-acerca-al-cine/
+* https://livingplaystation.com/2015/02/09/uncharted-4-tiene-una-calidad-grafica-que-se-acerca-al-cine
   
 * https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
   
-* https://maxigame.net/2015/11/13/uncharted-4-el-final-de-un-ladron-parece-muy-cercano-a-una-pelicula-dice-un-empleado-travieso-de-perro/
+* https://maxigame.net/2015/11/13/uncharted-4-el-final-de-un-ladron-parece-muy-cercano-a-una-pelicula-dice-un-empleado-travieso-de-perro
 
 *  https://www.youtube.com/watch?v=34GJ9ZMAKqA 
 ----
