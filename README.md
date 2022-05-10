@@ -55,12 +55,18 @@ En Spotify también hay otro añadido muy importante, otro caso  de hibridación
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+  
+* Spotify.com
+  
+* Wikipedia.com
 
-https://www.unocero.com/como-se-hace/5-trucos-de-spotify-que-debes-conocer/
+* www.unocero.com/como-se-hace/5-trucos-de-spotify-que-debes-conocer/
 
-https://www.xataka.com/streaming/no-somos-como-netflix-spotify-desacelera-suscripciones-esquiva-comparaciones
+* www.xataka.com/streaming/no-somos-como-netflix-spotify-desacelera-suscripciones-esquiva-comparaciones
 
+ 
+  
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
