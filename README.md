@@ -75,11 +75,7 @@ En Spotify también hay otro añadido muy importante, otro caso  de hibridación
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-  
-* Spotify.com
-  
-* Wikipedia.com
+
 
 * www.xataka.com/streaming/no-somos-como-netflix-spotify-desacelera-suscripciones-esquiva-comparaciones
 
@@ -90,6 +86,12 @@ En Spotify también hay otro añadido muy importante, otro caso  de hibridación
 * https://maxigame.net/2015/11/13/uncharted-4-el-final-de-un-ladron-parece-muy-cercano-a-una-pelicula-dice-un-empleado-travieso-de-perro
 
 * youtube.com
+  
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+  
+* Spotify.com
+  
+* Wikipedia.com
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
