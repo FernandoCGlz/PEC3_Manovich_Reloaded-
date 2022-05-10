@@ -18,12 +18,32 @@ Fecha: 02/05/2022
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![Uncharted 4](https://pics.filmaffinity.com/uncharted_4_a_thief_s_end-134903281-mmed.jpg) 
+
 ## Re-descubriendo la Hibridación:Caso 1  UNCHARTED 4  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+El caso del videojuego Uncharted 4 para la Consola PlayStation de la marca japonesa SONY  es un claro caso de hibridación en varios aspectos de los últimos avances tecnológicos, principalmente entre el cine el videojuego y la interactividad.
+Y es que Uncharted 4 tiene una calidad gráfica que se acerca mucho al cine. 
+
+El protagonista del Videojuego Natan Drake podría ser perfectamente un doble en alguna película de cine, a un nivel de detalle asombroso los personajes tienen.
+Según Tzeng, una de las personas que ayudan a hacer que Uncharted 4: A Thiefs End la PlayStation 4 le permite lograr mucho más de lo que nunca antes había logrado. «Hacer más expresiones; hacer más mezclas de formas y mapas de arrugas», continuó. «Todo esto nos está acercando un paso más a la calidad cinematográfica que queríamos para la industria de los videojuegos, y creo que en unos pocos años podremos lograrlo»
+
+Todo esto hablando en el año 2016, ya han pasado 6 años y todo ha seguido avanzando,  hay situaciones, y no sólo en las escenas de video in game en la que no sabes si estás manejando el personaje o es una película, (las secuencias cinematográficas que, situadas entre niveles de juego, hacen avanzar la acción) escenas y planos como si fuesen totalmente de “Indiana Jones” como planos de secuencia, primeros planos, travelling, efectos visuales, actores, actores de voz  o situaciones muy alocadas de acción como en “Rambo” todo esto mezclado con un buen guion y fotografía, luces y sombras, todo está perfectamente medido y estudiado para ser muy realista, incluso tiene situaciones y escenas de humor, en el mismo videojuego también podemos encontrar persecuciones  que nada tiene que envidiar a producciones como la Jungla de Cristal lugares de exploración y aventura al más puro estilo de la saga Tomb Raider. 
+
+En muchas escenas al igual que en una película te hace sentir emoción, miedo, escaparnos de un terreno que se está cayendo a trozos, o saltos totalmente ajustados y milimétricos, pero todo ello con un doblaje y en muchas ocasiones son movimientos captados de escenas y personajes reales. La captura de movimiento  o “motion capture” es el proceso por el que los movimientos físicos de los actores se capturan con el fin de recrearlos después, para precisamente darle más realismo y no parezcan unos movimientos robóticos artificiales.
+
+En algunas ocasiones también se utiliza la propia tecnología d la película para hacer el videojuego o viceversa. En esta ocasión en la película Uncharted  se han basado en escenas de su propio videojuego para hacer la película tales como la escena del avión y la tercera parte del videojuego. 
+En el siguiente video se puede ver la comparación en ambas escenas, videojuego y película.
+
+https://www.youtube.com/watch?v=oZsG2MpcCgk
+
+Su banda sonora también es digna de ser de película.
+
+Es un claro caso la mezcla e hibridación donde ya apenas se diferencia ni se ven los límites  entre un videojuego y una película, en mi forma de verlo, queda poco tiempo para que los límites se difuminen más aún.
+
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=v=34GJ9ZMAKqA
 " target="_blank">
+  
   (https://www.youtube.com/watch?v=34GJ9ZMAKqA)
 
 ![SPOTIFY](https://www.scdn.co/i/_global/open-graph-default.png) 
@@ -65,7 +85,12 @@ En Spotify también hay otro añadido muy importante, otro caso  de hibridación
 
 * www.xataka.com/streaming/no-somos-como-netflix-spotify-desacelera-suscripciones-esquiva-comparaciones
 
- 
+* https://livingplaystation.com/2015/02/09/uncharted-4-tiene-una-calidad-grafica-que-se-acerca-al-cine/
+  
+* https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
+  
+* https://maxigame.net/2015/11/13/uncharted-4-el-final-de-un-ladron-parece-muy-cercano-a-una-pelicula-dice-un-empleado-travieso-de-perro/
+
   
 ----
 
