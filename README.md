@@ -6,16 +6,16 @@
 Autor: Fernando Camarena González
 
 
-Fecha: 02/05/2022
+Fecha: 10/05/2022
 
 
 
 
 
-## Planteamiento
+## Introducción
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Los casos escogidos  para este trabajo y como un casos de hibridación han sido  los de el videojuego del estudio japonés de PlayStation, Naughty Dog  UNCHARTED 4  publicado en el año 2016 y el caso de la plataforma  musical de Streaming  Spotify.
 
 ![Uncharted 4](https://pics.filmaffinity.com/uncharted_4_a_thief_s_end-134903281-mmed.jpg) 
 
